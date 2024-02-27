@@ -13,7 +13,7 @@ import { authenticate } from '@/app/lib/actions';
 
 import { Metadata } from 'next';
 
-export const metadata: Metadata = {
+const metadata: Metadata = {
   title: 'Login',
 };
 
